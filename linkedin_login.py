@@ -7,8 +7,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 import time
 
-EMAIL = "kometod834@leabro.com"
-PASSWORD = "Dino_2017"
+EMAIL = "your_email"
+PASSWORD = "your_password"
 
 options = webdriver.ChromeOptions()
 options.add_argument("--start-maximized")
